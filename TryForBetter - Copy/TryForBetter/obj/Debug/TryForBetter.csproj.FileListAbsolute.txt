@@ -1,0 +1,13 @@
+D:\Lap trinh mang\DNS\GetTry\TryForBetter\TryForBetter\bin\Debug\TryForBetter.exe.config
+D:\Lap trinh mang\DNS\GetTry\TryForBetter\TryForBetter\bin\Debug\TryForBetter.exe
+D:\Lap trinh mang\DNS\GetTry\TryForBetter\TryForBetter\bin\Debug\TryForBetter.pdb
+D:\Lap trinh mang\DNS\GetTry\TryForBetter\TryForBetter\obj\Debug\TryForBetter.csproj.AssemblyReference.cache
+D:\Lap trinh mang\DNS\GetTry\TryForBetter\TryForBetter\obj\Debug\TryForBetter.Form1.resources
+D:\Lap trinh mang\DNS\GetTry\TryForBetter\TryForBetter\obj\Debug\TryForBetter.Form2.resources
+D:\Lap trinh mang\DNS\GetTry\TryForBetter\TryForBetter\obj\Debug\TryForBetter.Form3.resources
+D:\Lap trinh mang\DNS\GetTry\TryForBetter\TryForBetter\obj\Debug\TryForBetter.Form4.resources
+D:\Lap trinh mang\DNS\GetTry\TryForBetter\TryForBetter\obj\Debug\TryForBetter.Properties.Resources.resources
+D:\Lap trinh mang\DNS\GetTry\TryForBetter\TryForBetter\obj\Debug\TryForBetter.csproj.GenerateResource.cache
+D:\Lap trinh mang\DNS\GetTry\TryForBetter\TryForBetter\obj\Debug\TryForBetter.csproj.CoreCompileInputs.cache
+D:\Lap trinh mang\DNS\GetTry\TryForBetter\TryForBetter\obj\Debug\TryForBetter.exe
+D:\Lap trinh mang\DNS\GetTry\TryForBetter\TryForBetter\obj\Debug\TryForBetter.pdb
